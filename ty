@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title> Note Worthy... </title>
+    <style>
+      body {
+        background-color: purple; /*black;*/ /*#71b6ff;*/
+        text-align: center;
+        padding: 200px;
+      }
+      h1 {
+        font-size: 60px;
+        font-family: system-ui;
+        color: white; /*color: #71ffba;*/
+      }
+     </style>
+   </head>
+   <body>
+    <h1>"I am the Warrior Princess. --Tara Yetts"<h1>
+    <h1>---</h1>
+   </body>
+  </html>
